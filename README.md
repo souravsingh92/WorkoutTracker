@@ -10,3 +10,5 @@
 •Tech Stack: built using HTML, CSS, JavaScript, the Geolocation API, and the
              Leaflet library.
 
+
+![image](https://github.com/souravsingh92/WorkoutTracker/assets/50536628/40cbc9cc-c114-4c15-928d-18f6830e0878)
